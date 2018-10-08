@@ -1,11 +1,11 @@
 # swift
 
-swift is an XCode playground that I created in Swift to learn and remember Swift syntax.
+swift is an Xcode playground that I created in Swift to learn and remember Swift syntax.
 
 ## Technologies
 
 * [Swift](https://developer.apple.com/swift/) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
-* [XCode](https://developer.apple.com/xcode/) - Xcode is an integrated development environment for macOS containing a suite of software development tools developed by Apple for developing software for macOS, iOS, watchOS, and tvOS.
+* [Xcode](https://developer.apple.com/xcode/) - Xcode is an integrated development environment for macOS containing a suite of software development tools developed by Apple for developing software for macOS, iOS, watchOS, and tvOS.
 
 ## Authors
 
