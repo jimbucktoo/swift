@@ -9,4 +9,4 @@ swift is an XCode playground that I created in Swift to learn and remember Swift
 
 ## Authors
 
-* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/jimbucktoo)
+* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/)
